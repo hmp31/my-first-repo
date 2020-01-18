@@ -2,4 +2,6 @@
 
 This is my *first* repo.
 
-![](./giphy.gif)
+Awesome cat:
+
+![awesome cat](./giphy.gif)
